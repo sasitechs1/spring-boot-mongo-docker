@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: sasi0328/springapp
+      - image: sasi0328/springapp:8
         name: javawebapp
         ports:
         - name: javawebapp
